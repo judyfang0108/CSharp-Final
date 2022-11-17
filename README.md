@@ -1,5 +1,6 @@
 # CSharp-Final
-Window Prgogramming Final Project
+## Window Prgogramming Final Project<br>
+Use C# form to build an app with these functions: make a to-do list, habit formation, keep acounts, play Gobang.
 # 時間管理大師Go
 
 - 動機
