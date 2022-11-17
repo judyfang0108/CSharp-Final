@@ -1,5 +1,5 @@
 # CSharp-Final
-視窗程式設計Final Project
+Window Prgogramming Final Project
 # 時間管理大師Go
 
 - 動機
